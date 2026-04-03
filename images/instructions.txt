@@ -1,0 +1,10 @@
+Welcome to Jisel's Portfolio!
+
+To have the images show up on the website properly, please take the images you have collected and place them in this exact folder (`C:\Users\Pc\Downloads\JISEL\images\`).
+
+Please name them exactly out like this so the website code can find them:
+1. For the large hero background image at the top of the site: Name it `jisel-1.jpg`
+2. For the main About section portrait: Name it `jisel-about.jpg`
+3. For the rest of the gallery images, name them sequentially from `jisel-2.jpg` to `jisel-28.jpg` (or however many you have).
+
+Note: If your images have different extensions (like .png or .webp), just rename the extension or edit the `index.html` file to match the extension.
